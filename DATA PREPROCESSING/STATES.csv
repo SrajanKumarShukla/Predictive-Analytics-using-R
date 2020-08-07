@@ -1,0 +1,30 @@
+State,Area(Km2) - Split 1,Districts,Literacy Rate%,Location,Number of Records,Official Languages,Population Density - Split 1,Population (/KM2),Sex Ratio,State,Tree Cover,Urban Pop.,Year
+Andhra Pradesh,160205,13,67.66,S,1,Telugu,,,992,Andhra Pradesh,8224,33.49,1956
+Arunachal Pradesh,83743,17,66.95,E,1,English,17,1382611,920,Arunachal Pradesh,2610,22.67,1987
+Assam,78438,33,73.18,E,1,Assamese,397,31169272,954,Assam,3922,14.08,1975
+Bihar,94163,38,63.82,NE,1,Hindi,1102,103804637,916,Bihar,4570,11.3,1935
+Chhattisgarh,135191,27,71.04,E,1,Chhattisgarhi,189,25540196,991,Chhattisgarh,4535,23.24,2000
+Delhi,11297,9,86.34,N,1,"Hindi,",11297,16753235,866,Delhi,23,97.5,1952
+Goa,,2,87.4,W,1,Konkani,394,1457723,968,Goa,280,62.17,1961
+Gujarat,196024,33,79.31,W,1,Gujarati,308,60383628,918,Gujarat,11591,,1960
+Haryana,44212,22,76.64,N,1,Haryanvi,573,25353081,877,Haryana,1333,24.25,1966
+Himachal Pradesh,55673,12,83.78,N,1,Hindi,123,6856509,974,Himachal Pradesh,2303,10.04,1971
+Jammu and,222236,22,,N,1,Urdu,56,12548926,883,Jammu and,2728,27.21,1948
+Jharkhand,,24,67.63,NE,1,Hindi,414,32966238,947,Jharkhand,3358,24.05,2000
+Karnataka,191791,30,75.6,S,1,Kannada,319,61130704,968,Karnataka,6090,38.57,1956
+Kerala,38863,14,93.91,S,1,Malayalam,859,33387677,1084,Kerala,3803,47.72,1956
+Madhya Pradesh,308245,51,70.63,C,1,Hindi,236,72597565,930,Madhya Pradesh,6745,27.63,1956
+Maharashtra,307713,36,82.91,W,1,Marathi,365,,946,Maharashtra,11806,45.23,1960
+Manipur,22327,16,79.85,E,1,Meiteilon (Manipuri),122,2721756,987,Manipur,606,20.21,1947
+Meghalaya,22429,11,75.48,E,1,English,132,2964007,986,Meghalaya,1876,20.08,1970
+Mizoram,,8,,E,1,Mizo,52,1091014,975,Mizoram,464,51.51,1972
+Nagaland,16579,11,80.11,E,1,English,119,1980602,931,Nagaland,1037,28.97,1963
+Odisha,155707,30,73.45,SE,1,Oriya,269,,978,Odisha,5136,16.68,1948
+Punjab,50362,22,76.68,N,1,Punjabi,,,893,Punjab,1635,37.49,1966
+Rajasthan,342239,33,67.06,NW,1,Hindi,201,68621012,926,Rajasthan,8373,24.89,1948
+Sikkim,7096,4,82.2,E,1,Nepali,86,607688,889,Sikkim,128,,1975
+Tamil Nadu,130058,32,80.33,S,1,Tamil,555,72138958,995,Tamil Nadu,4590,48.45,1969
+Tripura,10486,8,87.75,E,1,Bengali,350,3671032,961,Tripura,576,26.18,1956
+Uttar Pradesh,240928,75,69.72,NE,1,Hindi,,199581477,908,Uttar Pradesh,7082,22.28,1937
+Uttarakhand,53483,13,79.63,N,1,Hindi,189,10116752,963,Uttarakhand,1966,30.55,2000
+West Bengal,88752,23,77.08,E,1,Bengali,1029,91347736,947,West Bengal,4018,31.89,1947
